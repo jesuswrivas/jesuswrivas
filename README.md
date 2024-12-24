@@ -1,10 +1,7 @@
-### RoR Developer 
-
+### Fullstack Developer 
 
 Greetings, visitor,
 
-I'm Jesus Rivas, an Electrical Engineer with passion for technology. I've earned my stripes as Technology and Automation Specialist in the mining industry of Peru: Haul trucks, Giant Shovels, Drilling Rigs, you name it.
+I am an Electrical Engineer, Business Consultant, and Developer with passion for technology and experience designing and developing web applications from concept to deployment. Currently, at TAPCS LLC, I build apps using Astro, Next.js, Tailwind, Ruby on Rails, and Laravel, leveraging my strong frontend skills with tools like Tailwind, Bootstrap, Livewire, and React to create responsive and user-friendly interfaces.
 
-Currently, I'm seeking new challenges as a Junior Developer. I've got the fundamentals covered (HTML, CSS, JS, Git, OOP Principles, TDD..., etc.), Ruby, RoR, and have experience testing units using RSPEC and deployments on a Linode server. My knowledge extends to databases such as MySQL, PostgreSQL, Windows SQL Server, and managing Linux servers. Additionally, throughout my EE career, I've acquired skills in Python, MATLAB, Pascal, VB, and PLC's.
-
-I am a seasoned professional with good judgment and strong soft skills, ready to tackle any challenge.
+Previously, I worked in automation and engineering roles, programming PLCs, developing Python scripts, and managing Linux servers. My skills include frontend and backend development, REST APIs, SQL databases, cloud deployments, and eCommerce solutions. I am a seasoned professional with good judgment and strong soft skills, ready to tackle any challenge.
